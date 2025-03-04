@@ -3,6 +3,8 @@
 ## Project Overview
 This is a simple online resume built as part of the **Complete Full-Stack Web Development Bootcamp** on Udemy. The goal of this project is to create a structured HTML-only resume that displays essential information about education, work experience, skills, and other relevant details.
 
+Live Demo: [View Project](https://ash-the-k.github.io/Capstone-Project-1/)
+
 ## Project Specifications
 1. Create an HTML file named `index.html`.
 2. Use the `<!DOCTYPE html>` declaration at the beginning of the file to indicate that it's an HTML document.
@@ -32,6 +34,6 @@ This is a simple online resume built as part of the **Complete Full-Stack Web De
 ---
 
 ### Author
-**[Your Name]**  
+**ASHLESH**  
 This project is part of my learning journey in web development. 🚀
 
